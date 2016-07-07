@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">RemindMeTwo Beta</string>
     <string name="search_title">search_title</string>
+
     <string name="menu_item_notification">Notification</string>
+
+    <string name="view_navigation_open">Open</string>
+    <string name="view_navigation_close">Close</string>
 </resources>
